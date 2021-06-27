@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyMovie</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="favorite_tv_show">Favorite Tv Show</string>
+    <string name="text_judul">Judul</string>
+    <string name="text_overview">Overview</string>
+    <string name="text_tanggal_rilis">Tanggal Rilis</string>
+    <string name="text_rating">Rating</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
